@@ -1,12 +1,12 @@
-![Journal](https://media.giphy.com/media/qAhQQCHK3a1l6/200.gif)
-
 # Projet-journal-tech
 
-### Groupes
-- **Goupe A** (Lucas, Jérémy, Andréa)
-- **Goupe B** (Jarod, Jeoffrey, Maxime)
-- **Goupe C** (Nicolas, Pierre, Kevin)
-- **Goupe D** (Iliès, Yannick, Adeline)
+Sur ce projet, nous étions 2 personnes. C'était le 1er projet en PHP, hors structure MVC et framework.
+
+Juillet 2021 - 3 mois de formation.
+
+Déscription de ce nous devions faire ci dessous :
+
+![Journal](https://media.giphy.com/media/qAhQQCHK3a1l6/200.gif)
 
 ### Gestion du projet
 * Créer un **Trello** par groupe.
