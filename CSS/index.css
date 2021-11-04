@@ -1,0 +1,160 @@
+*{
+    margin: auto;
+}
+
+                                                        /* Header */
+
+header{
+    background-color: #B40606;
+    background-size: 100% 100%;
+    height: 300px;
+}
+   
+.buttonHeader {
+    font-size:30px;
+    font-weight: bold;
+    background: linear-gradient(0deg, #720401 , rgb(158, 2, 2));
+    color: white;
+    border-radius: 30px;
+    text-align: center;
+}
+
+.buttonHeader:hover{
+
+    color: black;
+}
+
+.h1Header {
+    font-size:120px;
+    color:white;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+}
+
+.h3Header {
+    font-size: 50px;
+   color:white;
+   font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+}
+
+                                                        /* Page Article */
+
+main{
+    padding: 1.5rem;
+    margin-left : 90px;
+}
+
+.card{
+    border: none;
+}
+
+.card-body .small{
+    color: #ff1e7d;
+}
+
+.logo{
+    height: 3rem;
+}
+
+.logo img{
+    width: 50px;
+    margin-right: 1rem;
+}
+
+.logo h5, .logo img{
+    margin-bottom: 0;
+}
+
+article .col{
+    margin-bottom: 1rem;
+    
+}
+
+.card-img, .card-img-bottom, .card-img-top {
+    width: 20%;
+    margin-left : 125px;
+    margin-top: 5px;
+}
+
+.bordureArticle{
+    border : 3px solid black;
+    border-radius: 50px;
+    margin-right : 100px;
+    margin-bottom : 50px;
+    height: auto;
+}
+
+.card-body{
+    width : auto;
+    height: 50px;
+}
+
+.h3index{
+    font-size: 20px;
+}
+
+.logo{
+    font-size: small;
+}
+
+.h5Article{
+
+    float: right;
+    margin : 5px;
+    font-size: small;
+}
+
+.imgArticle{
+
+    width: 250px;
+    margin-left: 500px;
+}
+
+                                                    /*Footer*/
+
+
+footer {
+
+    background-color:black;
+    background-size: 100% 100%;
+    height: 200px;
+}
+
+.h6Footer {
+    color:white;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+}
+
+                                                    /*Formulaire Publier*/
+
+
+form{
+
+    border : 15px solid rgb(158, 2, 2);
+    margin: 5%;
+    height: auto;
+    width: 50%;
+    text-align: center;
+    padding : 10px;
+}
+
+.inputPublier{
+
+    margin : 5px;
+}
+
+.imgPreview{
+
+    width : 300px;
+    margin : 10px;
+}
+
+.textAreaPublier{
+
+    width: 465px;
+    height: 150px;
+}
+
+.inputRadio{
+
+    margin: 5px;
+}
